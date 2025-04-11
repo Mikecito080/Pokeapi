@@ -21,8 +21,5 @@ function mostrarLista(pokemones) {
         </div>`;
     }
     seccion.innerHTML = Pokes;
-    
-    /*app.appendChild(buscador);*/
-    app.appendChild(seccion);
 
 }
